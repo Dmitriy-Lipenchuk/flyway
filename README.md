@@ -1,0 +1,1 @@
+![Image alt](https://github.com/Dmitriy-Lipenchuk/flyway/raw/flyway-migration/readme/resources/diagramm.png)
